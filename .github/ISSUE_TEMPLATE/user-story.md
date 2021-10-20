@@ -1,7 +1,7 @@
 ---
 name: User Story
 about: Create a new request for functionality
-title: 'US: (Create a title based on keywords from the Definition)'
+title: "(Create a title based on keywords from the Definition)"
 labels: ''
 assignees: ''
 

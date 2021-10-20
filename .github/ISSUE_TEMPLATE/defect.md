@@ -1,7 +1,7 @@
 ---
 name: Defect
 about: Create a record for defects found in production
-title: 'DEFECT: (Create a title based on the Description)'
+title: "(Create a title based on the Description)"
 labels: ''
 assignees: ''
 

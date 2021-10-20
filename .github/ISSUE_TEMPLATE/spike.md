@@ -1,7 +1,7 @@
 ---
 name: Spike
 about: Create a Research Spike
-title: 'Spike: (Create a spike name based on the question) [hours of effort]'
+title: "(Create a spike name based on the question) [hours of effort]"
 labels: ''
 assignees: ''
 

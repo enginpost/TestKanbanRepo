@@ -1,7 +1,7 @@
 ---
 name: Refactoring
 about: Create a refactoring backlog item
-title: 'REF: (Create title based on Description)'
+title: "(Create title based on Description)"
 labels: ''
 assignees: ''
 
