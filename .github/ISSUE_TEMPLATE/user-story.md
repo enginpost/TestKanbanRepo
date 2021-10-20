@@ -8,6 +8,9 @@ assignees: ''
 ---
 
 **Definition**
+_AS A_  (User Persona)
+_I NEED TO HAVE THE ABILITY TO_  (do some activity)
+_SO I CAN_ (have some outcome)
 
 **Acceptance Criteria**
 1. _Sample Title_
